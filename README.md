@@ -17,4 +17,4 @@ git commit -m "Comentario sobre el commit"
 git push
 ```
 ### Ponemos una imagen
-<img src="https://i.blogs.es/4e5da4/github3/450_1000.jpg" width="75%" />
+<img src="https://i.blogs.es/4e5da4/github3/450_1000.jpg" width="100%" />
